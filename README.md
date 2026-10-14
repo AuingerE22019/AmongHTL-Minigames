@@ -3,7 +3,7 @@
 ## Hosting & Joining
 Um einen Server zu hosten / beizutretten, geben Sie in der Hauptmenü Eingabe die Domain "jakob.tobias.hofinga.at" mit dem Port 7777 ein.
 
-Hier geben wir Minigames (Tasks) für **Among HTL** ab. Unity-Version: **6000.4.1f1**.
+Hier geben wir Minigames (Tasks) für **Among HTL** ab. Unity-Version: **6000.6.4f1**.
 
 ## Regeln
 
