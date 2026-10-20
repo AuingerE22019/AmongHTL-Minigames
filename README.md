@@ -14,8 +14,6 @@ Hier geben wir Minigames (Tasks) für **Among HTL** ab. Ein Minigame ist eine kl
 - Das Minigame wird oft wiederholt: Bei jedem Start soll es **neu** sein (Zufall, nichts merken).
 - Nur eigene oder frei verwendbare Bilder und Sounds.
 
-Du musst **nicht** von `Minigame` erben. Schreib stattdessen in den Pull Request, **woran man erkennt, dass die Aufgabe geschafft ist** (dein Event oder deine Methode). Den Anschluss ans Spiel baut das Team. Der Ordner `minigames/Core` gehört dem Team, du brauchst ihn nicht.
-
 Schwierigkeit: **Leicht, Mittel oder Schwer**. Je schwerer, desto mehr Notenverbesserung.
 
 ## Abgeben
