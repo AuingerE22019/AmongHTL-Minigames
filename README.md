@@ -1,6 +1,52 @@
 # AmongHTL Minigames
 
-Hier geben wir Minigames (Tasks) für **Among HTL** ab. Ein Minigame ist eine kleine Aufgabe, die der Spieler im Spiel in einem Fenster löst. Unity-Version: **6000.6.4f1**.
+Domain: amonghtl-dpa.swedencentral.cloudapp.azure.com
+
+Port: 7777 (im Schulnetz 443)
+
+Ein Minigame ist eine kleine Aufgabe, die der Spieler im Spiel in einem Fenster löst. Unity-Version: **6000.6.4f1**.
+
+<!-- MINIGAMES-LISTE:START -->
+
+## Status
+
+Stand: Build 2026-11-18
+
+🆕 **neu** = seit dem letzten Build (Build 2026-11-18) dazugekommen, ✏️ **bearbeitet** = seitdem vom Autor oder von uns geändert (neue Fassung, neue Texte).
+
+| Nr. | Typ | Minigame | Autor | Stand | Markierung |
+|---|---|---|---|---|---|
+| 1 | Schüler | Kabel sortieren | Anel Hrvacic | im Spiel (seit Build 2026-10-14) |  |
+| 2 | Schüler | Switch konfiguriern | Christian Berec | im Spiel (seit Build 2026-10-20) |  |
+| 3 | Schüler | **PC zusammenbauen** | Jonas Hattinger | neue Fassung eingebaut, noch nicht im Release | ✏️ **bearbeitet** |
+| 4 | Schüler | Hausschuhe anziehen | Jonas Sternbauer | im Spiel (seit Build 2026-10-20) |  |
+| 5 | Schüler | Tafel löschen | L. Klausner | im Spiel (seit Build 2026-11-01) |  |
+| 6 | Schüler | Klassenraum aufräumen | Florian Schlager | im Spiel (seit Build 2026-11-01) |  |
+| 7 | Schüler | **Beamer-Fernbedienung reparieren** | Tobias Hofinger | neue Fassung eingebaut, noch nicht im Release | ✏️ **bearbeitet** |
+| 8 | Schüler | Müll trennen | Julian Allerstorfer | im Spiel (seit Build 2026-11-18) |  |
+| 9 | Schüler | Schaltung verdrahten | David Hehenberger | im Spiel (seit Build 2026-11-18) |  |
+| 10 | Schüler | **Uhr reparieren** | Samuel Krempl | eingebaut, noch nicht im Release | 🆕 **neu** |
+| 11 | Schüler | **Binärzahl bauen** | Jakob Kaltenböck | als Nr. 11 eingebaut, noch nicht im Release | 🆕 **neu** |
+| 1 | Lauser | **Deckenplatten beschädigen** | Tobias Rebenda | neue Fassung eingebaut, noch nicht im Release | ✏️ **bearbeitet** |
+| 2 | Lauser | **PC sabotieren** | Jonas Hattinger | neue Fassung eingebaut, noch nicht im Release | ✏️ **bearbeitet** |
+| 3 | Lauser | **Uhren verstellen** | Samuel Krempl | neue Fassung eingebaut, noch nicht im Release | ✏️ **bearbeitet** |
+| 4 | Lauser | **Beamer sabotieren** | Tobias Hofinger | neue Fassung eingebaut, noch nicht im Release | ✏️ **bearbeitet** |
+| 5 | Lauser | Tafel beschmieren | L. Klausner | im Spiel (seit Build 2026-11-18) |  |
+| 6 | Lauser | Unterschrift fälschen | Jonas Doppelbauer | im Spiel (seit Build 2026-11-18) |  |
+| 7 | Lauser | **Handyregal entsorgen** | Elias Redl | eingebaut, noch nicht im Release | 🆕 **neu** |
+
+Die Nummern stehen im Spiel im Kasten und im Fenstertitel. Schüler (weißer Kasten) und Lauser (roter Kasten) zählen getrennt ab 1. Alle Änderungen stehen in [MINIGAMES-HISTORIE.md](MINIGAMES-HISTORIE.md). Fertige Spiel-Builds (Windows, macOS, Linux) gibt es unter [Releases](https://github.com/AuingerE22019/AmongHTL-Minigames/releases).
+
+### Noch nicht im Spiel
+
+Diese Abgaben liegen im Repo, sind aber (noch) kein Minigame im Spiel:
+
+- **HandyRegalEinräumen_Schüler** (Elias Redl), Datei `HandyRegalEinräumen_Schüler.unitypackage`, zuletzt geändert 12.11.2026 – Paket enthält nur ein Prefab und keine Skripte
+- **DestroyRouter_Lausa** (Johannes Lakoschek), Datei `DestroyRouter_Lausa.unitypackage`, zuletzt geändert 12.11.2026 – Paket enthält nur ein Prefab und keine Skripte
+- **RepairRouter_Student** (Johannes Lakoschek), Datei `RepairRouter_Student.unitypackage`, zuletzt geändert 12.11.2026 – Paket enthält nur ein Prefab und keine Skripte
+- **SnusMinigame** (Tobias Lindpointner), Datei `SnusMinigame.prefab`, zuletzt geändert 14.10.2026 – nur ein loses Prefab, kein .unitypackage
+
+<!-- MINIGAMES-LISTE:END -->
 
 ## Regeln
 
@@ -32,11 +78,3 @@ Schwierigkeit: **Leicht, Mittel oder Schwer**. Je schwerer, desto mehr Notenverb
 - [ ] Nicht verlierbar, jeder Start ist neu
 - [ ] Mehrmals getestet, keine Fehler in der Konsole
 - [ ] Name, Beschreibung, Schwierigkeit und „Wann ist es geschafft?" im Pull-Request-Text
-
-## Hosting & Joining
-
-Um einen Server zu hosten oder beizutreten, gib im Hauptmenü die Domain "jakob.tobias.hofinga.at" mit dem Port 7777 ein.
-
-Fertige Spiel-Builds (Windows, macOS, Linux) stehen unter **Releases**.
-
-Fragen? Elias Auinger oder Jakob Kaltenböck.
