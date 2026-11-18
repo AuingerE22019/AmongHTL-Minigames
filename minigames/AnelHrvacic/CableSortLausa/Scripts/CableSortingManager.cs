@@ -79,9 +79,17 @@ public class CableSortingManager : MonoBehaviour
         hintGO.transform.SetParent(transform, false);
 
         RectTransform rect = hintGO.AddComponent<RectTransform>();
-        rect.anchorMin = rect.anchorMax = rect.pivot = new Vector2(0.5f, 1f);
+        rect.pivot = new Vector2(0.5f, 1f);
         rect.sizeDelta = new Vector2(900f, 60f);
-        rect.anchoredPosition = Vector2.zero;
+
+        // The prefab root has a plain Transform, so anchors can't reach the screen edge; snap to the canvas top instead.
+        Canvas canvas = GetComponentInParent<Canvas>();
+        if (canvas != null)
+        {
+            Vector3[] corners = new Vector3[4];
+            ((RectTransform)canvas.rootCanvas.transform).GetWorldCorners(corners);
+            rect.position = (corners[1] + corners[2]) * 0.5f; // midpoint of top-left and top-right
+        }
 
         Text text = hintGO.AddComponent<Text>();
         text.text = "Steck olle Kabl in de foischn Kistn";
