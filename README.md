@@ -10,41 +10,34 @@ Ein Minigame ist eine kleine Aufgabe, die der Spieler im Spiel in einem Fenster 
 
 ## Status
 
-Stand: Build 2026-11-18.3
+Stand: Build 2026-11-18.4
 
-🆕 **neu** = seit dem letzten Build (18.11.2026 12:42) dazugekommen, ✏️ **bearbeitet** = seitdem vom Autor oder von uns geändert (neue Fassung, neue Texte).
+🆕 **neu** = seit dem letzten Build (18.11.2026 13:00) dazugekommen, ✏️ **bearbeitet** = seitdem vom Autor oder von uns geändert (neue Fassung, neue Texte).
 
 | Nr. | Typ | Minigame | Autor | Stand | Markierung |
 |---|---|---|---|---|---|
-| 1 | Schüler | Kabel sortieren | Anel Hrvacic | im Spiel (seit Build 2026-10-14) |  |
-| 2 | Schüler | Switch konfiguriern | Christian Berec | im Spiel (seit Build 2026-10-20) |  |
-| 3 | Schüler | PC zusammenbauen | Jonas Hattinger | im Spiel (seit Build 2026-10-20) |  |
-| 4 | Schüler | Hausschuhe anziehen | Jonas Sternbauer | im Spiel (seit Build 2026-10-20) |  |
-| 5 | Schüler | Tafel löschen | L. Klausner | im Spiel (seit Build 2026-11-01) |  |
-| 6 | Schüler | Klassenraum aufräumen | Florian Schlager | im Spiel (seit Build 2026-11-01) |  |
-| 7 | Schüler | Beamer-Fernbedienung reparieren | Tobias Hofinger | im Spiel (seit Build 2026-11-01) |  |
-| 8 | Schüler | Müll trennen | Julian Allerstorfer | im Spiel (seit Build 2026-11-18) |  |
-| 9 | Schüler | Schaltung verdrahten | David Hehenberger | im Spiel (seit Build 2026-11-18) |  |
-| 10 | Schüler | Uhr reparieren | Samuel Krempl | im Spiel (seit Build 2026-11-18.2) |  |
-| 11 | Schüler | Binärzahl bauen | Jakob Kaltenböck | im Spiel (seit Build 2026-10-14) |  |
-| 1 | Lauser | Deckenplatten beschädigen | Tobias Rebenda | im Spiel (seit Build 2026-11-01) |  |
-| 2 | Lauser | PC sabotieren | Jonas Hattinger | im Spiel (seit Build 2026-11-01) |  |
-| 3 | Lauser | Uhren verstellen | Samuel Krempl | im Spiel (seit Build 2026-11-01) |  |
+| 1 | Schüler | PC zusammenbauen | Jonas Hattinger | im Spiel (seit Build 2026-10-20) |  |
+| 2 | Schüler | Tafel löschen | L. Klausner | im Spiel (seit Build 2026-11-01) |  |
+| 3 | Schüler | **Klassenraum aufräumen** | Florian Schlager | im Spiel (seit Build 2026-11-01) | ✏️ **bearbeitet** |
+| 4 | Schüler | Beamer-Fernbedienung reparieren | Tobias Hofinger | im Spiel (seit Build 2026-11-01) |  |
+| 5 | Schüler | Uhr reparieren | Samuel Krempl | im Spiel (seit Build 2026-11-18.2) |  |
+| 6 | Schüler | **Deckenplatten reparieren** | Tobias Rebenda | im Spiel (seit Build 2026-11-18.4) | 🆕 **neu** |
+| 7 | Schüler | Kabel sortieren | Anel Hrvacic | im Spiel (seit Build 2026-10-14) |  |
+| 8 | Schüler | Switch konfiguriern | Christian Berec | im Spiel (seit Build 2026-10-20) |  |
+| 9 | Schüler | Hausschuhe anziehen | Jonas Sternbauer | im Spiel (seit Build 2026-10-20) |  |
+| 10 | Schüler | Müll trennen | Julian Allerstorfer | im Spiel (seit Build 2026-11-18) |  |
+| 11 | Schüler | Schaltung verdrahten | David Hehenberger | im Spiel (seit Build 2026-11-18) |  |
+| 12 | Schüler | Binärzahl bauen | Jakob Kaltenböck | im Spiel (seit Build 2026-10-14) |  |
+| 1 | Lauser | PC sabotieren | Jonas Hattinger | im Spiel (seit Build 2026-11-01) |  |
+| 2 | Lauser | Tafel beschmieren | L. Klausner | im Spiel (seit Build 2026-11-18) |  |
+| 3 | Lauser | **Klassenraum verwüsten** | Florian Schlager | im Spiel (seit Build 2026-11-18.4) | 🆕 **neu** |
 | 4 | Lauser | Beamer sabotieren | Tobias Hofinger | im Spiel (seit Build 2026-11-01) |  |
-| 5 | Lauser | Tafel beschmieren | L. Klausner | im Spiel (seit Build 2026-11-18) |  |
-| 6 | Lauser | Unterschrift fälschen | Jonas Doppelbauer | im Spiel (seit Build 2026-11-18) |  |
-| 7 | Lauser | Handyregal entsorgen | Elias Redl | im Spiel (seit Build 2026-11-18.2) |  |
+| 5 | Lauser | Uhren verstellen | Samuel Krempl | im Spiel (seit Build 2026-11-01) |  |
+| 6 | Lauser | Deckenplatten beschädigen | Tobias Rebenda | im Spiel (seit Build 2026-11-01) |  |
+| 7 | Lauser | Unterschrift fälschen | Jonas Doppelbauer | im Spiel (seit Build 2026-11-18) |  |
+| 8 | Lauser | Handyregal entsorgen | Elias Redl | im Spiel (seit Build 2026-11-18.2) |  |
 
 Die Nummern stehen im Spiel im Kasten und im Fenstertitel. Schüler (weißer Kasten) und Lauser (roter Kasten) zählen getrennt ab 1. Alle Änderungen stehen in [MINIGAMES-HISTORIE.md](MINIGAMES-HISTORIE.md). Fertige Spiel-Builds (Windows, macOS, Linux) gibt es unter [Releases](https://github.com/AuingerE22019/AmongHTL-Minigames/releases).
-
-### Noch nicht im Spiel
-
-Diese Abgaben liegen im Repo, sind aber (noch) kein Minigame im Spiel:
-
-- **HandyRegalEinräumen_Schüler** (Elias Redl), Datei `HandyRegalEinräumen_Schüler.unitypackage`, zuletzt geändert 12.11.2026 – Paket enthält nur ein Prefab und keine Skripte
-- **DestroyRouter_Lausa** (Johannes Lakoschek), Datei `DestroyRouter_Lausa.unitypackage`, zuletzt geändert 12.11.2026 – Paket enthält nur ein Prefab und keine Skripte
-- **RepairRouter_Student** (Johannes Lakoschek), Datei `RepairRouter_Student.unitypackage`, zuletzt geändert 12.11.2026 – Paket enthält nur ein Prefab und keine Skripte
-- **SnusMinigame** (Tobias Lindpointner), Datei `SnusMinigame.prefab`, zuletzt geändert 14.10.2026 – nur ein loses Prefab, kein .unitypackage
 
 <!-- MINIGAMES-LISTE:END -->
 
