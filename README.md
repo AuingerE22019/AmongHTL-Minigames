@@ -10,18 +10,18 @@ Ein Minigame ist eine kleine Aufgabe, die der Spieler im Spiel in einem Fenster 
 
 ## Status
 
-Stand: Build 2026-11-18.4
+Stand: Build 2026-11-24
 
-🆕 **neu** = seit dem letzten Build (18.11.2026 13:00) dazugekommen, ✏️ **bearbeitet** = seitdem vom Autor oder von uns geändert (neue Fassung, neue Texte).
+🆕 **neu** = seit dem letzten Build (18.11.2026 21:21) dazugekommen, ✏️ **bearbeitet** = seitdem vom Autor oder von uns geändert (neue Fassung, neue Texte).
 
 | Nr. | Typ | Minigame | Autor | Stand | Markierung |
 |---|---|---|---|---|---|
 | 1 | Schüler | PC zusammenbauen | Jonas Hattinger | im Spiel (seit Build 2026-10-20) |  |
 | 2 | Schüler | Tafel löschen | L. Klausner | im Spiel (seit Build 2026-11-01) |  |
-| 3 | Schüler | **Klassenraum aufräumen** | Florian Schlager | im Spiel (seit Build 2026-11-01) | ✏️ **bearbeitet** |
+| 3 | Schüler | Klassenraum aufräumen | Florian Schlager | im Spiel (seit Build 2026-11-01) |  |
 | 4 | Schüler | Beamer-Fernbedienung reparieren | Tobias Hofinger | im Spiel (seit Build 2026-11-01) |  |
 | 5 | Schüler | Uhr reparieren | Samuel Krempl | im Spiel (seit Build 2026-11-18.2) |  |
-| 6 | Schüler | **Deckenplatten reparieren** | Tobias Rebenda | im Spiel (seit Build 2026-11-18.4) | 🆕 **neu** |
+| 6 | Schüler | Deckenplatten reparieren | Tobias Rebenda | im Spiel (seit Build 2026-11-18.4) |  |
 | 7 | Schüler | Kabel sortieren | Anel Hrvacic | im Spiel (seit Build 2026-10-14) |  |
 | 8 | Schüler | Switch konfiguriern | Christian Berec | im Spiel (seit Build 2026-10-20) |  |
 | 9 | Schüler | Hausschuhe anziehen | Jonas Sternbauer | im Spiel (seit Build 2026-10-20) |  |
@@ -30,7 +30,7 @@ Stand: Build 2026-11-18.4
 | 12 | Schüler | Binärzahl bauen | Jakob Kaltenböck | im Spiel (seit Build 2026-10-14) |  |
 | 1 | Lauser | PC sabotieren | Jonas Hattinger | im Spiel (seit Build 2026-11-01) |  |
 | 2 | Lauser | Tafel beschmieren | L. Klausner | im Spiel (seit Build 2026-11-18) |  |
-| 3 | Lauser | **Klassenraum verwüsten** | Florian Schlager | im Spiel (seit Build 2026-11-18.4) | 🆕 **neu** |
+| 3 | Lauser | Klassenraum verwüsten | Florian Schlager | im Spiel (seit Build 2026-11-18.4) |  |
 | 4 | Lauser | Beamer sabotieren | Tobias Hofinger | im Spiel (seit Build 2026-11-01) |  |
 | 5 | Lauser | Uhren verstellen | Samuel Krempl | im Spiel (seit Build 2026-11-01) |  |
 | 6 | Lauser | Deckenplatten beschädigen | Tobias Rebenda | im Spiel (seit Build 2026-11-01) |  |
