@@ -2,7 +2,7 @@
 
 Wann welche Abgabe ins Repo kam, geändert, umbenannt oder entfernt wurde. Quelle ist die Git-Historie dieses Repos (Pakete `.unitypackage`, davor lose Dateien); bei Pull Requests gilt der Zeitpunkt des Merge. Die Datei wird automatisch aus der Git-Historie erzeugt und nicht von Hand geändert.
 
-Stand: Build 2026-11-24
+Stand: Build 2026-11-25
 
 Datum und Uhrzeit in Europe/Vienna, neueste zuerst.
 

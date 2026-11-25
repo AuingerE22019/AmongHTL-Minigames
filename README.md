@@ -10,9 +10,9 @@ Ein Minigame ist eine kleine Aufgabe, die der Spieler im Spiel in einem Fenster 
 
 ## Status
 
-Stand: Build 2026-11-24
+Stand: Build 2026-11-25
 
-🆕 **neu** = seit dem letzten Build (18.11.2026 21:21) dazugekommen, ✏️ **bearbeitet** = seitdem vom Autor oder von uns geändert (neue Fassung, neue Texte).
+🆕 **neu** = seit dem letzten Build (24.11.2026 19:39) dazugekommen, ✏️ **bearbeitet** = seitdem vom Autor oder von uns geändert (neue Fassung, neue Texte).
 
 | Nr. | Typ | Minigame | Autor | Stand | Markierung |
 |---|---|---|---|---|---|
