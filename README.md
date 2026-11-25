@@ -6,6 +6,30 @@ Port: 7777 (im Schulnetz 443)
 
 Ein Minigame ist eine kleine Aufgabe, die der Spieler im Spiel in einem Fenster löst. Unity-Version: **6000.6.4f1**.
 
+<!-- Schüler-LISTE:START -->
+
+## Schüler
+
+Stand: Build 2026-11-25
+
+| Name | Minigame-Nummern |
+|---|---|
+| Julian Allerstorfer | S10 |
+| Christian Berec | S8 |
+| Jonas Doppelbauer | L7 |
+| Jonas Hattinger | S1, L1 |
+| David Hehenberger | S11 |
+| Tobias Hofinger | S4, L4 |
+| Anel Hrvacic | S7 |
+| Jakob Kaltenböck | S12 |
+| L. Klausner | S2, L2 |
+| Samuel Krempl | S5, L5 |
+| Tobias Rebenda | S6, L6 |
+| Elias Redl | L8 |
+| Florian Schlager | S3, L3 |
+| Jonas Sternbauer | S9 |
+
+<!-- Schüler-LISTE:END -->
 <!-- MINIGAMES-LISTE:START -->
 
 ## Status
