@@ -1,8 +1,8 @@
 # AmongHTL Minigames
 
-Domain: amonghtl-dpa.swedencentral.cloudapp.azure.com
+Domain: amonghtl-dpa.swedencentral.cloudapp.azure.com || **135.116.69.172**
 
-Port: 7777 (im Schulnetz 443)
+Port: 7777 (im Schulnetz **443**)
 
 Ein Minigame ist eine kleine Aufgabe, die der Spieler im Spiel in einem Fenster löst. Unity-Version: **6000.6.4f1**.
 
